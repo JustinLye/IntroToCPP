@@ -1,0 +1,11 @@
+Account   	Last Name, First Name                     	        Balance
+1234567890	Fred, Murtz                               	        2000.01
+2956294386	Julian, Schwinger                         	      335821.93
+4385638273	Richard, Ames                             	        8468.74
+5285064395	Debbie, Schneiderman                      	      201537.31
+5839659462	Freidman, Hochstrasser                    	       48392.42
+7395659299	Milhouse, Van Houten                      	           2.85
+9237405759	Nolan, Ryan                               	     7237895.75
+9587498357	Bayern, Richard                           	        3457.12
+9765324598	Joanne, Bryant                            	     8459873.08
+Total Balance	                                                    16297449.21

@@ -1,0 +1,9 @@
+Type    Account Code    Last Name, First Name                  Balance
+C       1234567890      Murtz, Fred                            2074.81
+A       9237405759      Ryan, Nolan                         7599790.54
+C       5285064395      Schneiderman, Debbie                 209593.60
+A       5839659462      Hochstrasser, Friedman                50812.04
+C       7395659299      Van Houten, Milhouse                     -2.24
+B       2956294386      Schwinger, Julian                    355971.25
+B       9765324598      Bryant, Joanne                      8967465.46
+A       4385638273      Ames, Richard                          8892.18
